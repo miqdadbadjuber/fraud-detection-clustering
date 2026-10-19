@@ -62,32 +62,13 @@ Key exploratory patterns observed during feature analysis:
 
 ---
 
-## Project Structure
+## Related Repositories
 
-```text
-fraud-detection-clustering/
-├── assets/
-│   ├── banner.png
-│   ├── cluster-visualization.png
-│   ├── correlation-matrix.png
-│   ├── feature-distributions.png
-│   ├── silhouette-score.png
-│   └── transaction-boxplot.png
-├── dataset/
-│   ├── data_clustering.csv
-│   └── data_clustering_inverse.csv
-├── models/
-│   ├── model_clustering.joblib
-│   └── PCA_model_clustering.joblib
-├── fraud_detection_clustering.ipynb
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
+- **fraud-detection-clustering** (this repository): Unsupervised customer segmentation via K-Means.
+- [fraud-detection-classification](../fraud-detection-classification): Supervised classification using Decision Tree and Random Forest on cluster labels.
 
 ---
 
-## Related Repositories
+## License
 
-1. **fraud-detection-clustering** (this repository): Unsupervised customer segmentation via K-Means.
-2. [fraud-detection-classification](https://github.com/miqdadbadjuber/fraud-detection-classification): Supervised classification using Decision Tree and Random Forest on cluster labels.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
