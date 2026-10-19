@@ -90,4 +90,4 @@ fraud-detection-clustering/
 ## Related Repositories
 
 1. **fraud-detection-clustering** (this repository): Unsupervised customer segmentation via K-Means.
-2. [fraud-detection-classification](../fraud-detection-classification): Supervised classification using Decision Tree and Random Forest on cluster labels.
+2. [fraud-detection-classification](https://github.com/miqdadbadjuber/fraud-detection-classification): Supervised classification using Decision Tree and Random Forest on cluster labels.
